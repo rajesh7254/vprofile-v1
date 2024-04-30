@@ -25,7 +25,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <head>
-    <title>Welcome</title>
+    <title>ORDER NOW</title>
     <link href="${contextPath}/resources/css/profile.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://bootswatch.com/cosmo/bootstrap.min.css">
@@ -51,12 +51,14 @@
                             <ul class="nav navbar-nav">
                                 <li><a href="#">Order History</a></li>
                                 <li><a href="#">Payments</a></li>
+                                <li><a href="#">Location</a></li>
+                                <li><a href="#">Deal day</a></li>
                                 <li><a href="#">Contact us</a></li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
-	                        	 <li><a href="${contextPath}/login">LOGIN</a></li>
-	                        	 <li><a href="${contextPath}/registration">SIGN UP</a></li>
+	                        	 <li><a href="${contextPath}/login">SIGN IN</a></li>
+	                        	 <li><a href="${contextPath}/registration">CREATE NOW</a></li>
 	                       	 	</ul>
                             </div>
                             
@@ -74,7 +76,7 @@
         <h2 class="form-heading" align="center"> ONLINE FOOD APPLICATION </h2>
         <div class="form-group ${error != null ? 'has-error' : ''}">
             <span>${message}</span>
-            <input name="username" type="text" class="form-control" placeholder="Username"
+            <input name="username" type="text" class="form-control" placeholder="EMAIL ID"
                    autofocus="true"/>
             <input name="password" type="password" class="form-control" placeholder="Password"/>
             <span>${error}</span>
