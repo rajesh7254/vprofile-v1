@@ -14,7 +14,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>LOGIN</title>
+    <title>CREDENTIALS</title>
 
     <link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
     <link href="${contextPath}/resources/css/common.css" rel="stylesheet">
@@ -49,9 +49,9 @@
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#">RAJESH</a></li>
-                                <li><a href="#">ABOUT</a></li>
-                                <li><a href="#">BLOG</a></li>
+                                <li><a href="#">Order History</a></li>
+                                <li><a href="#">PAayments</a></li>
+                                <li><a href="#">Contact us</a></li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
@@ -71,7 +71,7 @@
 <div class="container">
 	
     <form method="POST" action="${contextPath}/login" class="form-signin">
-        <h2 class="form-heading" align="center"> smarthome </h2>
+        <h2 class="form-heading" align="center"> ONLINE FOOD APPLICATION </h2>
         <div class="form-group ${error != null ? 'has-error' : ''}">
             <span>${message}</span>
             <input name="username" type="text" class="form-control" placeholder="Username"
