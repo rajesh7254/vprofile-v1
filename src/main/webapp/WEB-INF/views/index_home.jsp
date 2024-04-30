@@ -21,12 +21,12 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">RAJESH SMART HOME</a>
-                            <i class="brand_network"><small><small>VProfile</small></small></i>
+                            <a class="navbar-brand" href="${contextPath}/index">ONLINE FOOD DELIVERY</a>
+                            <i class="brand_network"><small><small>TASTES GOOD</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#technologies">MY HOME</a></li>
+                                <li><a href="#technologies">HOME</a></li>
                                 <li><a href="#about">ABOUT</a></li>
                                 <li><a href="#contact">CONTACT</a></li>
                                 <li><a href="#">REVIEW</a></li>
@@ -126,7 +126,7 @@
   
   <!-- Contact Section -->
   <div class="container w3-padding-32" id="contact">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16" align="center">CONTACT</h3>
+    <h3 class="w3-border-bottom w3-border-light-red w3-padding-16" align="center">CONTACT</h3>
     <p>Lets get in touch and talk about your and our next project.</p>
     <form action="/action_page.php" target="_blank">
       <input class="w3-input" type="text" placeholder="Name" required name="Name">
