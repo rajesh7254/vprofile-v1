@@ -50,7 +50,7 @@
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
                                 <li><a href="#">Order History</a></li>
-                                <li><a href="#">PAayments</a></li>
+                                <li><a href="#">Payments</a></li>
                                 <li><a href="#">Contact us</a></li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
