@@ -21,8 +21,8 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">ONLINE FOOD DELIVERY</a>
-                            <i class="brand_network"><small><small>TASTES GOOD</small></small></i>
+                            <a class="navbar-brand" href="${contextPath}/index">VERTICAL SECTOR SMART HOME</a>
+                            <i class="brand_network"><small><small>RAJESH</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
