@@ -25,7 +25,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <head>
-    <title>ORDER NOW</title>
+    <title>SMART HOME </title>
     <link href="${contextPath}/resources/css/profile.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://bootswatch.com/cosmo/bootstrap.min.css">
@@ -44,15 +44,15 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">MENU </a>
-                            <i class="brand_network"><small><small>TASTES LIKE MOM</small></small></i>
+                            <a class="navbar-brand" href="${contextPath}/index">SMART HOME</a>
+                            <i class="brand_network"><small><small>AWS</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#">Order History</a></li>
-                                <li><a href="#">Payments</a></li>
-                                <li><a href="#">Location</a></li>
-                                <li><a href="#">Deal day</a></li>
+                                <li><a href="#">DEVICES</a></li>
+                                <li><a href="#">CONNECTIVITY</a></li>
+                                <li><a href="#">HOME</a></li>
+                                <li><a href="#">SENSORS</a></li>
                                 <li><a href="#">Contact us</a></li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
@@ -73,7 +73,7 @@
 <div class="container">
 	
     <form method="POST" action="${contextPath}/login" class="form-signin">
-        <h2 class="form-heading" align="center"> ONLINE FOOD APPLICATION </h2>
+        <h2 class="form-heading" align="center"> VERTICAL SECTOR SMART HOME</h2>
         <div class="form-group ${error != null ? 'has-error' : ''}">
             <span>${message}</span>
             <input name="username" type="text" class="form-control" placeholder="EMAIL ID"
