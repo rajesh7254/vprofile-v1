@@ -28,7 +28,7 @@
                             <ul class="nav navbar-nav">
                                 <li><a href="#technologies">MENU</a></li>
                                 <li><a href="#about">HISTORY</a></li>
-                                <li><a href="#contact">LOCATION</a></li>
+                                <li><a href="#contact">WATCH LATER</a></li>
                                 <li><a href="#">REVIEW & FEEDBACK </a></li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
@@ -79,12 +79,12 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <img src="${contextPath}/resources/Images/technologies/git.jpg" alt="DevOps" style="width:150px;height:150px">
+        <img src="${contextPath}/resources/Images/technologies/git.jpg" alt="MOVIES" style="width:150px;height:150px">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <img src="${contextPath}/resources/Images/technologies/jenkins.png" alt="DevOps" style="width:200px;height:150px">
+        <img src="${contextPath}/resources/Images/technologies/jenkins.png" alt="MOVIES" style="width:200px;height:150px">
       </div>
     </div>
   </div>
@@ -92,22 +92,22 @@
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <img src="${contextPath}/resources/Images/technologies/docker.png" alt="DevOps" style="width:150px;height:150px">
+        <img src="${contextPath}/resources/Images/technologies/docker.png" alt="MOVIES" style="width:150px;height:150px">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <img src="${contextPath}/resources/Images/technologies/puppet.jpg" alt="DevOps" style="width:150px;height:150px">
+        <img src="${contextPath}/resources/Images/technologies/puppet.jpg" alt="MOVIES" style="width:150px;height:150px">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <img src="${contextPath}/resources/Images/technologies/Vagrant.png" alt="DevOps" style="width:150px;height:150px">
+        <img src="${contextPath}/resources/Images/technologies/Vagrant.png" alt="MOVIES" style="width:150px;height:150px">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <img src="${contextPath}/resources/Images/technologies/python-logo.png" alt="DevOps" style="width:200px;height:150px">
+        <img src="${contextPath}/resources/Images/technologies/python-logo.png" alt="MOVIES" style="width:200px;height:150px">
       </div>
     </div>
   </div>
