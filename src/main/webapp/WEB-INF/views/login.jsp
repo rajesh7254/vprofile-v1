@@ -25,7 +25,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <head>
-    <title>SMART HOME </title>
+    <title>VERTICAL SECTOR FOOD ORDERING</title>
     <link href="${contextPath}/resources/css/profile.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://bootswatch.com/cosmo/bootstrap.min.css">
@@ -44,21 +44,22 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">SMART HOME</a>
-                            <i class="brand_network"><small><small>AWS</small></small></i>
+                            <a class="navbar-brand" href="${contextPath}/index">FOOD ORDERING</a>
+                            <i class="brand_network"><small><small>AWS CLOUD IMPLEMENTATION</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#">DEVICES</a></li>
-                                <li><a href="#">CONNECTIVITY</a></li>
-                                <li><a href="#">HOME</a></li>
-                                <li><a href="#">SENSORS</a></li>
-                                <li><a href="#">Contact us</a></li>
+                                <li><a href="#">HISTORY</a></li>
+                                <li><a href="#">PAYMENTS</a></li>
+                                <li><a href="#">DEAL OF THE DAY</a></li>
+                                <li><a href="#">NON-VEG</a></li>
+                                <li><a href="#">VEG</a></li>
+                                <li><a href="#">CHINEESE</a></li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
-	                        	 <li><a href="${contextPath}/login">SIGN IN</a></li>
-	                        	 <li><a href="${contextPath}/registration">CREATE NOW</a></li>
+	                        	 <li><a href="${contextPath}/login">EXISTING USER</a></li>
+	                        	 <li><a href="${contextPath}/registration">NEW USER</a></li>
 	                       	 	</ul>
                             </div>
                             
@@ -73,7 +74,7 @@
 <div class="container">
 	
     <form method="POST" action="${contextPath}/login" class="form-signin">
-        <h2 class="form-heading" align="center"> VERTICAL SECTOR SMART HOME</h2>
+        <h2 class="form-heading" align="center"> ONLINE FOOD ORDER</h2>
         <div class="form-group ${error != null ? 'has-error' : ''}">
             <span>${message}</span>
             <input name="username" type="text" class="form-control" placeholder="EMAIL ID"
