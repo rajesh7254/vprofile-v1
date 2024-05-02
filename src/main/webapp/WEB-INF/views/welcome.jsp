@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Welcome</title>
+    <title>WELCOME BACK JASHWANTH</title>
     <link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
     <link href="${contextPath}/resources/css/profile.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -136,7 +136,7 @@
                         </div>
                     </span>
                     <br><br>
-                    <i class="fa fa-tags" aria-hidden="true"></i> <a href="#" class="tag">ONLINE FOOD ORDER</a> <a href="#" class="tag"> #Continuous Integration</a> <a href="#" class="tag"> #Continuous Delivery </a><a href="#" class="tag"> #Automation</a>
+                    <i class="fa fa-tags" aria-hidden="true"></i> <a href="#" class="tag">ONLINE MOVIES</a> <a href="#" class="tag"> #Continuous Integration</a> <a href="#" class="tag"> #Continuous Delivery </a><a href="#" class="tag"> #Automation</a>
                     <br><br><hr>
                     <span class="pull-left">
                         <a href="#" class="btn btn-link" style="text-decoration:none;"><i class="fa fa-fw fa-files-o" aria-hidden="true"></i> Posts</a>
