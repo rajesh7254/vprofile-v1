@@ -21,8 +21,8 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">VERTICAL SETOR FOOD ORDERING</a>
-                            <i class="brand_network"><small><small>GRANDHI YOGI</small></small></i>
+                            <a class="navbar-brand" href="${contextPath}/index">MOVIE STREAMING</a>
+                            <i class="brand_network"><small><small>ENTERTAINMENT</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
@@ -63,18 +63,18 @@
 
   <!-- Project Section -->
   <div class="container w3-padding-32" id="technologies">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16" align="center">TECHNOLOGIES</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16" align="center">STREAMING PLATFORM</h3>
   </div>
 
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <img src="${contextPath}/resources/Images/technologies/Ansible_logo.png" alt="DevOps" style="width:150px;height:150px">      
+        <img src="${contextPath}/resources/Images/technologies/Ansible_logo.png" alt="MOVIES" style="width:150px;height:150px">      
       </div>      
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-         <img src="${contextPath}/resources/Images/technologies/aws.png" alt="DevOps" style="width:200px;height:150px">
+         <img src="${contextPath}/resources/Images/technologies/aws.png" alt="MOVIES" style="width:200px;height:150px">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
