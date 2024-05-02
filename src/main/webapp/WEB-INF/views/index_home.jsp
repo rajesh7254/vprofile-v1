@@ -21,15 +21,15 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">VERTICAL SECTOR SMART HOME</a>
-                            <i class="brand_network"><small><small>RAJESH</small></small></i>
+                            <a class="navbar-brand" href="${contextPath}/index">VERTICAL SETOR FOOD ORDERING</a>
+                            <i class="brand_network"><small><small>GRANDHI YOGI</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#technologies">HOME</a></li>
-                                <li><a href="#about">ABOUT</a></li>
-                                <li><a href="#contact">CONTACT</a></li>
-                                <li><a href="#">REVIEW</a></li>
+                                <li><a href="#technologies">MENU</a></li>
+                                <li><a href="#about">HISTORY</a></li>
+                                <li><a href="#contact">LOCATION</a></li>
+                                <li><a href="#">REVIEW & FEEDBACK </a></li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
