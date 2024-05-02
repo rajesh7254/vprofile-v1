@@ -25,7 +25,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <head>
-    <title>VERTICAL SECTOR FOOD ORDERING</title>
+    <title>MOVIE STREAMING</title>
     <link href="${contextPath}/resources/css/profile.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://bootswatch.com/cosmo/bootstrap.min.css">
@@ -44,17 +44,17 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">FOOD ORDERING</a>
+                            <a class="navbar-brand" href="${contextPath}/index">MOVIES WORLD</a>
                             <i class="brand_network"><small><small>AWS CLOUD IMPLEMENTATION</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
                                 <li><a href="#">HISTORY</a></li>
                                 <li><a href="#">PAYMENTS</a></li>
-                                <li><a href="#">DEAL OF THE DAY</a></li>
-                                <li><a href="#">NON-VEG</a></li>
-                                <li><a href="#">VEG</a></li>
-                                <li><a href="#">CHINEESE</a></li>
+                                <li><a href="#">WATCH LATER </a></li>
+                                <li><a href="#">DOWNLOADS</a></li>
+                                <li><a href="#">DUBBED MOVIES</a></li>
+                                <li><a href="#"></a>VIDEO SONGS</li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
@@ -74,7 +74,7 @@
 <div class="container">
 	
     <form method="POST" action="${contextPath}/login" class="form-signin">
-        <h2 class="form-heading" align="center"> ONLINE FOOD ORDER</h2>
+        <h2 class="form-heading" align="center"> ONLINE WATCH MOVIES</h2>
         <div class="form-group ${error != null ? 'has-error' : ''}">
             <span>${message}</span>
             <input name="username" type="text" class="form-control" placeholder="EMAIL ID"
