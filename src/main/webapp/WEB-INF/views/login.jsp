@@ -25,7 +25,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <head>
-    <title>MOVIE STREAMING</title>
+    <title>Education</title>
     <link href="${contextPath}/resources/css/profile.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://bootswatch.com/cosmo/bootstrap.min.css">
@@ -44,17 +44,17 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">MOVIES WORLD</a>
+                            <a class="navbar-brand" href="${contextPath}/index">Education WORLD</a>
                             <i class="brand_network"><small><small>AWS CLOUD IMPLEMENTATION</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#">HISTORY</a></li>
-                                <li><a href="#">PAYMENTS</a></li>
-                                <li><a href="#">WATCH LATER </a></li>
-                                <li><a href="#">DOWNLOADS</a></li>
-                                <li><a href="#">DUBBED MOVIES</a></li>
-                                <li><a href="#"></a>VIDEO SONGS</li>
+                                <li><a href="#">Reading</a></li>
+                                <li><a href="#">Paid Courses</a></li>
+                                <li><a href="#">Books</a></li>
+                                <li><a href="#">Courses</a></li>
+                                <li><a href="#">Research</a></li>
+                                <li><a href="#"></a>Create</li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
@@ -74,7 +74,7 @@
 <div class="container">
 	
     <form method="POST" action="${contextPath}/login" class="form-signin">
-        <h2 class="form-heading" align="center"> ONLINE WATCH MOVIES</h2>
+        <h2 class="form-heading" align="center"> Read Online</h2>
         <div class="form-group ${error != null ? 'has-error' : ''}">
             <span>${message}</span>
             <input name="username" type="text" class="form-control" placeholder="EMAIL ID"
